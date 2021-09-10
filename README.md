@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋你好，我是轩灵！
 
-<!--
-**fltenwall/fltenwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻前端开发工程师
+- 👻热爱前端开发
+- 📫个人博客：
+- 🤭掘金：https://juejin.cn/user/4265760848355463
+- 🙄CSDN(技术博客专家)：https://blog.csdn.net/qq_32925031?spm=1001.2101.3001.5343
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🎬关于我的GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact)
