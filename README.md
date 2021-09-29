@@ -29,3 +29,6 @@
 [weekly](https://github.com/ascoders/weekly) ![weekly](https://img.shields.io/github/stars/ascoders/weekly?style=social) 前端精读周刊
 
 [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) ![You-Dont-Need](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need?style=social) 使用原生代替框架
+
+[CSAPP-Notes](https://github.com/ArkTicketTech/CSAPP-Notes) ![CSAPP-Notes](https://img.shields.io/github/stars/ArkTicketTech/CSAPP-Notes?style=social) CSAPP阅读计划 —— 我是读英文原版，写英文的读书笔记📒
+
