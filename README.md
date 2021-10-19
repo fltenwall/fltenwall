@@ -30,7 +30,7 @@
 
 [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) ![You-Dont-Need](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need?style=social) 使用原生代替框架
 
-[XPoet/js-data-structures-and-algorithms](https://github.com/XPoet/js-data-structures-and-algorithms) ![XPoet/js-data-structures-and-algorithms](https://img.shields.io/github/stars/XPoet/js-data-structures-and-algorithms?style=social)
+[XPoet/js-data-structures-and-algorithms](https://github.com/XPoet/js-data-structures-and-algorithms) ![XPoet/js-data-structures-and-algorithms](https://img.shields.io/github/stars/XPoet/js-data-structures-and-algorithms?style=social) JavaScript数据结构与算法
 
 [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) ![You-Dont-Need-JavaScript](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-JavaScript?style=social) 使用CSS代替JS实现
 
