@@ -13,6 +13,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact)
 
+![fltenwall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight)
+
 
 # 🤪 我参与的开源项目
 
