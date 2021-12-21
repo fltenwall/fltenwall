@@ -9,11 +9,11 @@
 
 # 🎬 关于我的GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact&theme=tokyonight)
 
-![fltenwall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight)
+<!-- ![fltenwall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight) -->
 
 
 # 🤪 我参与的开源项目
