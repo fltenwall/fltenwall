@@ -42,3 +42,5 @@
 
 [fe-store-house](https://github.com/poppinlp/fe-store-house) ![fe-store-house](https://img.shields.io/github/stars/poppinlp/fe-store-house?style=social) 前端资源整理
 
+[awesome-lowcode-component](https://github.com/aliaszz/awesome-lowcode-component) ![awesome-lowcode-component](https://img.shields.io/github/stars/aliaszz/awesome-lowcode-component?style=social) 精选低代码 (LowCode) 资源列表
+
