@@ -11,7 +11,7 @@
 
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333" /> -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight) ![实时](https://img.shields.io/github/stars/fltenwall?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact&theme=tokyonight)
 
