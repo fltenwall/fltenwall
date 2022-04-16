@@ -40,7 +40,7 @@
 
 [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) ![You-Dont-Need-JavaScript](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-JavaScript?style=social) 使用CSS代替JS实现
 
-[CSAPP-Notes](https://github.com/ArkTicketTech/CSAPP-Notes) ![CSAPP-Notes](https://img.shields.io/github/stars/ArkTicketTech/CSAPP-Notes?style=social) CSAPP阅读计划 —— 我是读英文原版，写英文的读书笔记📒
+[CSAPP-Notes](https://github.com/ArkTicketTech/CSAPP-Notes) ![CSAPP-Notes](https://img.shields.io/github/stars/ArkTicketTech/CSAPP-Notes?style=social) CSAPP阅读计划 
 
 [fe-store-house](https://github.com/poppinlp/fe-store-house) ![fe-store-house](https://img.shields.io/github/stars/poppinlp/fe-store-house?style=social) 前端资源整理
 
