@@ -1,4 +1,5 @@
 # 👋 你好，我是轩灵！一名想成为计算机科学家的开发者
+# 👋 Hello, this is fltenwall. A developer who wants to be a computer scientist
 
 - 👨🏻‍💻 wbe开发工程师
 - 👻 热爱计算机科学
