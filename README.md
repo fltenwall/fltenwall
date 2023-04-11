@@ -1,12 +1,22 @@
-# 👋🏻 Hey,
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# 我是轩灵！一名想成为计算机科学家的开发者
-# This is fltenwall. A developer who wants to be a computer scientist
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm fltenwall(轩灵)</h1>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/sachuverma/">
+    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/sachuverma_/">
+    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  </a>
+</p>
 
+<h3 align="center">A developer who wants to be a computer scientist</h3>
+<h3 align="center">一名想成为计算机科学家的开发者</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -21,23 +31,10 @@
 
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/javascript.png" alt=cplusplus width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=js width="60" height="60"/>
+	
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
-
-
-
-# 🎬 关于我的GitHub  ⭐️⭐️🦍🦍![实时](https://img.shields.io/github/stars/fltenwall?style=social)
-
-
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333" /> -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact&theme=tokyonight)
-
-<!-- ![fltenwall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight) -->
-
-
 
 <h4>Skills and Tools: </h4>
 <p align="left">
@@ -66,6 +63,22 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
  
 </p>
+
+
+
+# 🎬 关于我的GitHub  ⭐️⭐️🦍🦍![实时](https://img.shields.io/github/stars/fltenwall?style=social)
+
+
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333" /> -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact&theme=tokyonight)
+
+<!-- ![fltenwall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&theme=tokyonight) -->
+
+
+
+
 
 # 🤪 我参与的开源项目
 
