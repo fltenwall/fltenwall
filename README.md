@@ -29,6 +29,13 @@
 - 🙄 [CSDN(技术博客专家)](https://blog.csdn.net/qq_32925031?spm=1001.2101.3001.5343)
 - ✌️  [个人网站](http://124.220.181.19/)
 
+
+<h4>Competitive Programming: </h4>
+
+- **Leetcode**: [140+ rating📈](https://leetcode.cn/u/flten/)   
+<!-- - **Codeforces**: [Specialist🧪](https://codeforces.com/profile/sachuverma)   
+- **Codechef**: [1950+ rating⭐](https://www.codechef.com/users/sachuverma)    -->
+
 <h4>Programming Languages: </h4>
 <p align="left">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=js width="60" height="60"/>
