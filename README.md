@@ -1,5 +1,11 @@
-# 👋 你好，我是轩灵！一名想成为计算机科学家的开发者
-# 👋 Hello, this is fltenwall. A developer who wants to be a computer scientist
+# 👋🏻 Hey,
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
+# 我是轩灵！一名想成为计算机科学家的开发者
+# This is fltenwall. A developer who wants to be a computer scientist
 
 - 👨🏻‍💻 wbe开发工程师
 - 👻 热爱计算机科学
