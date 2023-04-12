@@ -73,6 +73,11 @@
  
 </p>
 
+<h4>On learning: </h4>
+<p align="left">
+	<img style="margin: auto;" src="https://github.com/fltenwall/fltenwall/blob/main/icons/tensorflow.png" alt=tensorflow width="140" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/fltenwall/fltenwall/blob/main/icons/PyTorch.png" alt=PyTorch width="120" height="60"/> 
+</p>
 
 #### 🎬 关于我的GitHub  ⭐️⭐️🦍🦍![实时](https://img.shields.io/github/stars/fltenwall?style=social)
 
