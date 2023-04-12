@@ -41,6 +41,8 @@
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=js width="60" height="60"/>
 	
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ 
+  <img style="margin: auto;" src="https://github.com/fltenwall/fltenwall/blob/main/icons/R.png" alt=R width="100" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
