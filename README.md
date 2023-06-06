@@ -30,7 +30,7 @@
 - ✌️  [个人网站](http://124.220.181.19/)
 
 
-<h4>Competitive Programming: </h4>
+<!-- <h4>Competitive Programming: </h4>
 
 - **Leetcode**: [140+ rating📈](https://leetcode.cn/u/flten/)   
 <!-- - **Codeforces**: [Specialist🧪](https://codeforces.com/profile/sachuverma)   
@@ -78,7 +78,7 @@
 	<img style="margin: auto;" src="https://github.com/fltenwall/fltenwall/blob/main/icons/tensorflow.png" alt=tensorflow width="140" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/fltenwall/fltenwall/blob/main/icons/PyTorch.png" alt=PyTorch width="120" height="60"/> 
 </p>
-
+ -->
 #### 🎬 关于我的GitHub  ⭐️⭐️🦍🦍![实时](https://img.shields.io/github/stars/fltenwall?style=social)
 
 
