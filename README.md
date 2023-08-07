@@ -123,11 +123,11 @@
 | [fe-store-house](https://github.com/poppinlp/fe-store-house) | ![fe-store-house](https://img.shields.io/github/stars/poppinlp/fe-store-house?style=social) | 前端资源整理 |
 | [awesome-lowcode-component](https://github.com/aliaszz/awesome-lowcode-component) | ![awesome-lowcode-component](https://img.shields.io/github/stars/aliaszz/awesome-lowcode-component?style=social) | 精选低代码 (LowCode) 资源列表 |
 | [strve](https://github.com/maomincoding/strve) | ![strve](https://img.shields.io/github/stars/maomincoding/strve?style=social) | 可以将字符串转换成视图的JavaScript库 |
-| [create-strve-app](https://github.com/maomincoding/create-strve-app) | ![https://img.shields.io/github/stars/maomincoding/create-strve-app?style=social] | 
+| [create-strve-app](https://github.com/maomincoding/create-strve-app) | ![create-strve-app](https://img.shields.io/github/stars/maomincoding/create-strve-app?style=social) | 
 Strve的官方脚手架 |
-| [strve-router](https://github.com/maomincoding/strve-router) | ![https://img.shields.io/github/stars/maomincoding/strve-router?style=social] | 
+| [strve-router](https://github.com/maomincoding/strve-router) | ![strve-router](https://img.shields.io/github/stars/maomincoding/strve-router?style=social) | 
 Strve的官方路由 |
-| [babel-plugin-strve](https://github.com/maomincoding/babel-plugin-strve) | ![https://img.shields.io/github/stars/maomincoding/babel-plugin-strve?style=social] | 将模板字符串转化为Strve普通对象的babel插件 |
+| [babel-plugin-strve](https://github.com/maomincoding/babel-plugin-strve) | ![babel-plugin-strve](https://img.shields.io/github/stars/maomincoding/babel-plugin-strve?style=social) | 将模板字符串转化为Strve普通对象的babel插件 |
 
 <summary>
  <img src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67"/>
