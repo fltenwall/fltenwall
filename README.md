@@ -84,7 +84,6 @@
 
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fltenwall&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333" /> -->
 
-[neon_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=neon
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fltenwall&theme=neon&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fltenwall&layout=compact&theme=neon)
 
