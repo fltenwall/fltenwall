@@ -113,7 +113,8 @@
 | [JavaScript_Everything](https://github.com/fltenwall/JavaScript_Everything)| ![JavaScript_Everything](https://img.shields.io/github/stars/fltenwall/JavaScript_Everything?style=social&logoColor=green)  | 大前端知识体系与面试宝典🐆从前端到后端，全栈工程师，六边形战士 |
 | [Code-for-JavaScript](https://github.com/fltenwall/Code-for-JavaScript)| ![Code-for-JavaScript](https://img.shields.io/github/stars/fltenwall/Code-for-JavaScript?style=social&logoColor=skyblue) |JavaScript各种手写实现🐬|
 | [Algorithms-for-JavaScript](https://github.com/fltenwall/Algorithms-for-JavaScript)| ![Algorithms-for-JavaScript](https://img.shields.io/github/stars/fltenwall/Algorithms-for-JavaScript?style=social&logoColor=lightpink) |用javacripts实现各种算法和数据结构🐣|
-| [The-English-For-Programmer](https://github.com/fltenwall/The-English-For-Programmer&logoColor=lightgreen)| ![The-English-For-Programmer](https://img.shields.io/github/stars/fltenwall/The-English-For-Programmer?style=social&logoColor=violet) |为程序员而写的英语学习指南🦄|
+| [The-English-For-Programmer](https://github.com/fltenwall/The-English-For-Programme)| ![The-English-For-Programmer](https://img.shields.io/github/stars/fltenwall/The-English-For-Programmer?style=social&logoColor=violet) |为程序员而写的英语学习指南🦄|
+| [Seven-Weeks-Chanllege-For-IELTS-And-Algorithm](https://github.com/fltenwall/Seven-Weeks-Chanllege-For-IELTS-And-Algorithm)| ![Seven-Weeks-Chanllege-For-IELTS-And-Algorithm](https://img.shields.io/github/stars/fltenwall/Seven-Weeks-Chanllege-For-IELTS-And-Algorithm?style=social&logoColor=violet) |七周学习挑战，雅思考下6.5分, leetcode刷题100 道|
 
 
 
