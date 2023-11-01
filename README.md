@@ -114,7 +114,6 @@
 | [Code-for-JavaScript](https://github.com/fltenwall/Code-for-JavaScript)| ![Code-for-JavaScript](https://img.shields.io/github/stars/fltenwall/Code-for-JavaScript?style=social&logoColor=skyblue) |JavaScript各种手写实现🐬|
 | [Algorithms-for-JavaScript](https://github.com/fltenwall/Algorithms-for-JavaScript)| ![Algorithms-for-JavaScript](https://img.shields.io/github/stars/fltenwall/Algorithms-for-JavaScript?style=social&logoColor=lightpink) |用javacripts实现各种算法和数据结构🐣|
 | [The-English-For-Programmer](https://github.com/fltenwall/The-English-For-Programmer)| ![The-English-For-Programmer](https://img.shields.io/github/stars/fltenwall/The-English-For-Programmer?style=social&logoColor=violet) |为程序员而写的英语学习指南🦄|
-| [Seven-Weeks-Chanllege-For-IELTS-And-Algorithm](https://github.com/fltenwall/Seven-Weeks-Chanllege-For-IELTS-And-Algorithm)| ![Seven-Weeks-Chanllege-For-IELTS-And-Algorithm](https://img.shields.io/github/stars/fltenwall/Seven-Weeks-Chanllege-For-IELTS-And-Algorithm?style=social&logoColor=violet) |七周挑战计划，考下雅思 6.5 分，梳理算法并刷 Leetcode100 道|
 
 
 
